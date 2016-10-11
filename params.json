@@ -1,0 +1,6 @@
+{
+  "name": "Chusocol",
+  "tagline": "A simple, comprehensive and free soundfont collection, focusing on realistic and playable acoustic and orchestral instruments for today's live musicians.",
+  "body": "##About ChusoCol\r\n**ChusoCol** is a simple collection of samples that comes from a variety of Open Source resources. It is intended to be simple and quick to use, mainly to its application in **live performances**.\r\n\r\nThe whole collection is mainly focused in recreating acoustic instruments with a decent level of **realism** while maintaining a relatively **small file size**, so that it can be used in a wide range of equipment, from old laptops to VST hardware players, such as the **Muse Receptor**.\r\n\r\n***\r\n\r\n##Sources\r\nThe collection is a mixture of my own material and a compilation of different resources from the web. The most important sample source has been the [General User's GS Bank](http://www.schristiancollins.com/generaluser.php) by S. Christian Collins. Suplementary material comes from [Jasper Blunk's](http://jasperblunk.com/) webpage (french horn samples) and the sample collection by the [University of Iowa](http://theremin.music.uiowa.edu/MIS.html).",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
